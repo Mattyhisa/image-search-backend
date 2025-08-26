@@ -6,3 +6,4 @@ requests==2.31.0
 faiss-cpu==1.7.4
 flask-cors==4.0.0
 git+https://github.com/openai/CLIP.git
+numpy<2
